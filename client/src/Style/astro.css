@@ -1,0 +1,116 @@
+.astronaut {
+  width: 16em;
+  margin-left: 2em;
+  margin-top: 1em;
+  animation: move 10s ease-in-out infinite;
+  z-index: 5;
+}
+
+@keyframes move {
+  0% {
+    transform: translateX(0em) translateY(0em);
+  }
+  25% {
+    transform: translateY(-1em) translateX(-1em);
+    rotate: -10deg;
+  }
+  50% {
+    transform: translateY(1em) translateX(-1em);
+  }
+  75% {
+    transform: translateY(-1.25em) translateX(1em);
+    rotate: 10deg;
+  }
+  100% {
+    transform: translateX(0em) translateY(0em);
+  }
+}
+/* From Uiverse.io by Javierrocadev */
+
+.moon {
+  width: 70px;
+  height: 70px;
+  top: 15%;
+  right: 10px;
+  position: absolute;
+  fill: white;
+}
+
+.rocket {
+  width: 70px;
+  height: 70px;
+  bottom: -2%;
+  bottom: 2%;
+  left: 2%;
+  position: absolute;
+  fill: white;
+}
+
+.star {
+  position: absolute;
+  background: radial-gradient(
+    circle,
+    rgba(251, 239, 63, 1) 0%,
+    rgba(255, 253, 212, 1) 100%
+  );
+  clip-path: polygon(
+    50% 0%,
+    61% 35%,
+    98% 35%,
+    68% 57%,
+    79% 91%,
+    50% 70%,
+    21% 91%,
+    32% 57%,
+    2% 35%,
+    39% 35%
+  );
+}
+.star-5 {
+  width: 20px;
+  height: 20px;
+  bottom: 24%;
+  right: 10%;
+  animation: rotate 3s normal linear infinite;
+}
+.star-6 {
+  width: 20px;
+  height: 20px;
+  top: 4%;
+  right: 25%;
+  animation: rotate 5s normal linear infinite;
+}
+.star-7 {
+  width: 40px;
+  height: 40px;
+  top: 34%;
+  right: 35%;
+  animation: rotate 5s normal linear infinite;
+}
+
+@keyframes rotate {
+  0% {
+    -webkit-transform: rotate3d(0, 0, 1, 0deg);
+    transform: rotate3d(0, 0, 1, 0deg);
+  }
+
+  25% {
+    -webkit-transform: rotate3d(0, 0, 1, 90deg);
+    transform: rotate3d(0, 0, 1, 90deg);
+  }
+
+  50% {
+    -webkit-transform: rotate3d(0, 0, 1, 180deg);
+    transform: rotate3d(0, 0, 1, 180deg);
+  }
+
+  75% {
+    -webkit-transform: rotate3d(0, 0, 1, 270deg);
+    transform: rotate3d(0, 0, 1, 270deg);
+  }
+
+  100% {
+    -webkit-transform: rotate3d(0, 0, 1, 360deg);
+    transform: rotate3d(0, 0, 1, 360deg);
+  }
+}

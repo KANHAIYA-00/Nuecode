@@ -1,0 +1,29 @@
+.custom-scrollbar::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Opera */
+}
+
+.custom-scrollbar {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+
+.custom-scrollbar2 {
+  overflow-x: auto; /* Enables horizontal scrolling */
+  overflow-y: auto; /* Enables vertical scrolling */
+  scrollbar-width: thin; /* For Firefox */
+  scrollbar-color: #353535 #101010; /* Customize scrollbar colors */
+}
+
+.custom-scrollbar2::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+  height: 8px; /* Height of the horizontal scrollbar */
+}
+
+.custom-scrollbar2::-webkit-scrollbar-track {
+  background: #101010; /* Background of the scrollbar track */
+}
+
+.custom-scrollbar2::-webkit-scrollbar-thumb {
+  background-color: #353535; /* Scrollbar thumb color */
+  border-radius: 10px; /* Rounded corners */
+}
