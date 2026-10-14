@@ -15,7 +15,7 @@ Nuecode is a Full-stack, GitHub-inspired web application built using **MERN Stac
 - 💻**Web-Based Code Editor:** Edit and manage web project code directly in your browser with real-time feedback.
   ![alt text](Screenshot-3.png)
 - 🤖**Built-in AI Assistant:** Access an integrated AI chatbot tailored to assist with coding, debugging, and ideation.
-  ![alt text](Screenshot8.png)
+  ![alt text](Screenshot-8.png)
 - 🛠️**Developer Utility Tools:** Access custom tools designed to assist in your daily web development workflow.
   ![alt text](Screenshot-4.png)
 - 🐛**User Profiles & Authentication:** Secure profile management, personalized user dashboard, and access control for private projects.
