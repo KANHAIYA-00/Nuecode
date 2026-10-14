@@ -1,5 +1,5 @@
-![Work In Progress](https://shields.io)
-"🚀 This project is currently under active development. I am working on polishing the frontend, responsiveness and finalizing backend integrations."
+- https://img.shields.io/badge/Work%20In%20Progress-8A2BE2
+  "🚀 This project is currently under active development. I am working on polishing the frontend, responsiveness and finalizing backend integrations."
 
 # ✨ Nuecode
 
