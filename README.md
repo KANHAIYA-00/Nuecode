@@ -1,7 +1,3 @@
-## 🚧 Work In Progress
-
-"🚀 This project is currently under active development. I am working on polishing the frontend, responsiveness and finalizing backend integrations."
-
 # ✨ Nuecode
 
 ## Overview
@@ -28,4 +24,9 @@ Nuecode is a Full-stack, GitHub-inspired web application built using **MERN Stac
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **State & Authentication:** JSON Web Tokens (JWT) / Session Auth
-  ![alt text](Screenshot-1.png) ![alt text](Screenshot-2.png)
+  ![alt text](Screenshot-1.png)
+  ![alt text](Screenshot-2.png)
+
+## 🚧 Work In Progress
+
+"🚀 This project is currently under active development. I am working on polishing the frontend, responsiveness and finalizing backend integrations."
