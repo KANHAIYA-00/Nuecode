@@ -1,3 +1,6 @@
+![Work In Progress](https://shields.io)
+"🚀 This project is currently under active development. I am working on polishing the frontend, responsiveness and finalizing backend integrations."
+
 # Nuecode
 
 ## Overview
