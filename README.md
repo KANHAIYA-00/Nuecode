@@ -1,4 +1,4 @@
-![🚧 Work In Progress]
+## 🚧 Work In Progress
 
 "🚀 This project is currently under active development. I am working on polishing the frontend, responsiveness and finalizing backend integrations."
 
