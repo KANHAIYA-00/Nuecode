@@ -1,5 +1,6 @@
-- https://img.shields.io/badge/Work%20In%20Progress-8A2BE2
-  "🚀 This project is currently under active development. I am working on polishing the frontend, responsiveness and finalizing backend integrations."
+![🚧 Work In Progress]
+
+"🚀 This project is currently under active development. I am working on polishing the frontend, responsiveness and finalizing backend integrations."
 
 # ✨ Nuecode
 
