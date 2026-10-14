@@ -1,2 +1,6 @@
+# Ignores node_modules in the root and ALL subfolders
+**/node_modules/
 node_modules/
+
+# Ignore environment variables
 .env
